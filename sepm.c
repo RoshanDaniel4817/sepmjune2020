@@ -1,3 +1,4 @@
+//This is a sample program from our team.
 #include <stdio.h>
 int main() {
     long long n;
